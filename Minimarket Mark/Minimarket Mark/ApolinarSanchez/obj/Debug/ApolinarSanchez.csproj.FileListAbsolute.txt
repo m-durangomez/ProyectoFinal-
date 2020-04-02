@@ -1,0 +1,46 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\bin\Debug\ApolinarSanchez.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\bin\Debug\ApolinarSanchez.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\bin\Debug\ApolinarSanchez.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.CrearProductos.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.CrearUsuario.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Factura.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Form2.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Ganancia.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Inicio.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Loggin.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.PRODUCTOSTODOS.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Reporteria.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Reporteria2.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Reporteriainventario.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.Ventas.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\ApolinarSanchez.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\RdlCompile.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\ApolinarSanchez\ApolinarSanchez\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\bin\Debug\ApolinarSanchez.exe.config
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.exe
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.pdb
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\bin\Debug\ApolinarSanchez.exe
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\bin\Debug\ApolinarSanchez.pdb
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.CrearProductos.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.CrearUsuario.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Factura.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Form1.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Form2.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Ganancia.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Inicio.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Loggin.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.PRODUCTOSTODOS.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Properties.Resources.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Reporteria.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Reporteria2.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Reporteriainventario.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.Ventas.resources
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\ApolinarSanchez.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\mofongo\ApolinarSanchez\obj\Debug\RdlCompile.compiled
